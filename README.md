@@ -4,19 +4,25 @@
 
 ## _Just-add-water CSS animation_
 
-## Installation
+## Configuration and Installation
 
-Install with npm:
+This repository is meant to be customized according to the animation needs of Patient Discovery, and installed into the Patient Pathfinder app.
 
-```shell
-npm install animate.css --save
-```
-
-Install with yarn:
+To build:
 
 ```shell
-yarn add animate.css
+npm install
 ```
+
+Customize the `source/animate.css` file to include the animations you want.
+
+Build the animate files
+
+```shell
+npm start
+```
+
+Now, take `animate.css` and put it into the Rails app at `app/assets/stylesheets/animate.css`
 
 ## Getting started
 
