@@ -28,3 +28,7 @@
 /* Sliding exits */
 @import 'sliding_exits/slideOutLeft.css';
 @import 'sliding_exits/slideOutRight.css';
+
+/* Specials */
+@import 'specials/rollOut.css';
+@import 'specials/rollOutLeft.css';
