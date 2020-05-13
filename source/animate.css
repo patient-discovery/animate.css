@@ -1,6 +1,9 @@
 @import '_vars.css';
 @import '_base.css';
 
+/* Attention Seekers */
+@import 'attention_seekers/shake.css';
+
 /* Bouncing entrances  */
 @import 'bouncing_entrances/bounceInDown.css';
 
